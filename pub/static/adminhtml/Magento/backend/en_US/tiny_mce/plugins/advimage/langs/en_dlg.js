@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/lib/web/tiny_mce/plugins/advimage/langs/en_dlg.js

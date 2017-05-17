@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-cms/view/adminhtml/web/js/folder-tree.js
