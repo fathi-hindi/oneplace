@@ -144,6 +144,10 @@
                 <label translate="true">Anchor Custom Text</label>
                 <description translate="true">If empty, we'll use the category name here.</description>
             </parameter>
+			<parameter name="image_url" xsi:type="text" visible="true">
+                <label translate="true">Category Thumbnil URL</label>
+            </parameter>
+			
             <parameter name="title" xsi:type="text" visible="true">
                 <label translate="true">Anchor Custom Title</label>
             </parameter>
@@ -157,6 +161,9 @@
                     </option>
                     <option name="link_inline" value="category/widget/link/link_inline.phtml">
                         <label translate="true">Category Link Inline Template</label>
+                    </option>
+					<option name="link_box" value="category/widget/link/link_box.phtml">
+                        <label translate="true">Category Link Box Template</label>
                     </option>
                 </options>
             </parameter>

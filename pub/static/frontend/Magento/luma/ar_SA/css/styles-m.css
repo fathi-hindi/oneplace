@@ -2432,3 +2432,24 @@ body.filter-active .columns{z-index:999}
 .account .orders-recent th,.account .orders-history th {
 	text-align:right;
 }
+
+/* box-category-link widget style */
+.widget.box-category-link {
+	width: 25%;
+    display: inline-block;
+    float: right;
+	clear: none;
+	margin: 0px !important;
+}
+.box-category-link .block-content {
+	padding:10px;
+}
+.box-category-link .block-title {
+	text-align: center;
+	padding:10px;
+}
+   
+
+
+
+

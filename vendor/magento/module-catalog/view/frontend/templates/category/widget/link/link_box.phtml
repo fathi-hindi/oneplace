@@ -1,0 +1,18 @@
+<?php
+/**
+ * Copyright © 2013-2017 Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+// @codingStandardsIgnoreFile
+?>
+<div class="widget block box-category-link">
+	<div class="block-content">
+		<img src="<?php echo $block->getData('image_url'); ?>"/>
+	</div>
+	<div class="block-title">
+		<a <?php /* @escapeNotVerified */ echo $block->getLinkAttributes() ?>>
+			<span><?php echo $block->escapeHtml($block->getLabel()) ?></span>
+		</a>
+	</div>
+</div>
