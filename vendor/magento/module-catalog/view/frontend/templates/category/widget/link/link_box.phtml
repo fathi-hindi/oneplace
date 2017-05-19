@@ -8,7 +8,9 @@
 ?>
 <div class="widget block box-category-link">
 	<div class="block-content">
-		<img src="<?php echo $block->getData('image_url'); ?>"/>
+		<a <?php /* @escapeNotVerified */ echo $block->getLinkAttributes() ?>>
+			<img src="<?php echo $block->getData('image_url'); ?>"/>
+		</a>
 	</div>
 	<div class="block-title">
 		<a <?php /* @escapeNotVerified */ echo $block->getLinkAttributes() ?>>
