@@ -844,7 +844,6 @@ body._has-modal-custom .modal-custom-overlay{height:100vh;left:0;position:fixed;
 .product-info-main .product.attribute.sku .value{display:inline-block}
 .product-info-main .product.attribute.overview{margin:20px 0}
 .product-info-main .product.alert{margin:10px 0}
-.product-info-main .product-reviews-summary{float:left}
 .product-info-main .product-options-bottom .box-tocart{margin-top:20px}
 .product-options-wrapper .fieldset-product-options-inner .legend{font-weight:600;font-size:1.4rem;border:none;display:inline-block;float:none;margin:0 0 8px;padding:0}
 .product-options-wrapper .fieldset-product-options-inner.required .legend:after,.product-options-wrapper .fieldset-product-options-inner._required .legend:after{content:'*';color:#e02b27;font-size:1.2rem}
