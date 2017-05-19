@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-sales/view/frontend/web/js/view/last-ordered-items.js
