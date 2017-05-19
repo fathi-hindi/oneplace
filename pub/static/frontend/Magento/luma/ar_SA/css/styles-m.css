@@ -859,7 +859,7 @@ body._has-modal-custom .modal-custom-overlay{height:100vh;left:0;position:fixed;
 .box-tocart .action.tocart{vertical-align:top}
 .box-tocart .action.tocart:not(:last-child){margin-bottom:15px}
 .product-addto-links{display:inline}
-.product-addto-links .action{margin-right:5%}
+.product-social-links .action:before{margin-left:10px !important}
 .product-social-links{margin:0 0 20px;text-align:center}
 .product-social-links .action.tocompare:before{content:'\e61e'}
 .prices-tier{margin-bottom:15px}
@@ -2415,4 +2415,14 @@ body.filter-active .columns{z-index:999}
 
 .action.primary {
 	border-radius:0 !important;
+}
+.form-edit-account fieldset.fieldset.info {
+	float:right;
+}
+
+.form-edit-account .fieldset.info .customer-dob input {
+	margin:0;
+}
+.account .form-edit-account .actions-toolbar {
+	float:right;
 }
