@@ -60,6 +60,7 @@ h1{font-size:40px;margin-bottom:40px}
 .page-layout-1column .column.main{width:100%;-ms-flex-order:2;-webkit-order:2;order:2}
 .page-layout-3columns .column.main{width:58.33333333%;display:inline-block;-ms-flex-order:2;-webkit-order:2;order:2}
 .page-layout-2columns-left .column.main{width:79.16666667%;float:left;-ms-flex-order:2;-webkit-order:2;order:2}
+.catalog-category-view.page-layout-2columns-left .column.main{float:right;}
 .page-layout-2columns-right .column.main{width:79.16666667%;float:left;-ms-flex-order:1;-webkit-order:1;order:1}
 .sidebar-main{padding-right:2%}
 .page-layout-3columns .sidebar-main{width:20.83333333%;float:left;-ms-flex-order:1;-webkit-order:1;order:1}
