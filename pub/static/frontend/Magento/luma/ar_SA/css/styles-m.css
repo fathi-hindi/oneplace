@@ -2423,9 +2423,12 @@ body.filter-active .columns{z-index:999}
 .form-edit-account .fieldset.info .customer-dob input {
 	margin:0;
 }
-.account .form-edit-account .actions-toolbar {
+.account .form-edit-account .actions-toolbar,.account .order-products-toolbar {
 	float:right;
 }
 .account .page-main .page-title-wrapper .page-title {
 	margin-right:0;
+}
+.account .orders-recent th,.account .orders-history th {
+	text-align:right;
 }
