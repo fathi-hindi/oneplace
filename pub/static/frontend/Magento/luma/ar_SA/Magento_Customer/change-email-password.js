@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-customer/view/frontend/web/change-email-password.js
