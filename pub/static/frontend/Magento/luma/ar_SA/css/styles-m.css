@@ -1564,9 +1564,9 @@ body.catalog-product-compare-index .action.print{float:right;margin:15px 0}
 .block.newsletter .fieldset{display:table-cell;margin:0;padding:0;vertical-align:top}
 .block.newsletter .field{margin:0}
 .block.newsletter .field .control{display:inline-block;text-decoration:none;display:block}
-.block.newsletter .field .control:before{-webkit-font-smoothing:antialiased;font-size:16px;line-height:32px;color:#c2c2c2;content:'\e61d';font-family:'luma-icons';margin:0 0 0 8px;vertical-align:middle;display:inline-block;font-weight:normal;overflow:hidden;speak:none;text-align:center}
+.block.newsletter .field .control:before{-webkit-font-smoothing:antialiased;font-size:16px;line-height:32px;color:#c2c2c2;content:'\e61d';font-family:'luma-icons';margin:0 8px 0 0;vertical-align:middle;display:inline-block;font-weight:normal;overflow:hidden;speak:none;text-align:center}
 .block.newsletter .field .control:before{position:absolute}
-.block.newsletter input{padding-left:35px}
+.block.newsletter input{padding-right:35px}
 .block.newsletter .title{display:none}
 .block.newsletter .actions{display:table-cell;vertical-align:top;width:1%}
 .block.newsletter .action.subscribe{border-bottom-left-radius:0;border-top-left-radius:0;margin-left:-1px}
@@ -1806,7 +1806,7 @@ body{background-color:#fff}
 .page-header .switcher strong,.page-footer .switcher strong{font-weight:400}
 .sidebar .widget.block:not(:last-child),.sidebar .widget:not(:last-child){margin-bottom:40px}
 .widget{clear:both}
-.page-header .widget.block,.page-footer .widget.block{margin:20px 0}
+.page-header .widget.block{margin:20px 0}
 .ui-datepicker td{padding:0}
 .ui-tooltip{background:#fff;border:1px solid #bbb;padding:10px}
 .my-credit-cards .status{font-style:italic}

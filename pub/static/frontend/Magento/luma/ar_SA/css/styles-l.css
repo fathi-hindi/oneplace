@@ -561,7 +561,7 @@ html,body{height:100%}
 .page-footer .switcher .options ul.dropdown:before{border-color:transparent #fff transparent transparent}
 .page-footer .switcher .options ul.dropdown:after{border-color:transparent #bbb transparent transparent;margin:0 0 -1px -1px}
 .footer.content{border-top:none}
-.footer.content .block{float:right}
+.footer.content .block{float:left}
 .footer.content ul{padding-right:50px}
 .footer.content .switcher.store{display:block;margin:0}
 .footer.content .links{display:inline-block;padding-right:50px;vertical-align:top}

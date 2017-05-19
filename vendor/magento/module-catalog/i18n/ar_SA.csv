@@ -158,7 +158,7 @@ Product,Product
 "Notify Low Stock RSS","Notify Low Stock RSS"
 "Low Stock Products","Low Stock Products"
 "%1 has reached a quantity of %2.","%1 has reached a quantity of %2."
-Home,Home
+Home,الرئسية
 "Go to Home Page","Go to Home Page"
 "Subscribe to RSS Feed","Subscribe to RSS Feed"
 "Products Comparison List","Products Comparison List"
@@ -541,7 +541,7 @@ Role,Role
 "Add to Cart","اظافة الى السلة"
 "In stock","متوفر"
 "Out of stock","غير متوفر"
-"Add to Wish List","Add to Wish List"
+"Add to Wish List","اضافة الى القائمة المفضلة"
 "You have no items to compare.","You have no items to compare."
 "Remove This Item","حذف هذا المنتج"
 Compare,مقارنة
@@ -549,7 +549,7 @@ Compare,مقارنة
 Prev,السابق
 Next,التالي
 "We can\'t find products matching the selection.","We can\'t find products matching the selection."
-"Add to Compare","Add to Compare"
+"Add to Compare","اضافة الى المقارنة"
 "Learn More","Learn More"
 "We found other products you might like!","We found other products you might like!"
 "More Choices:","More Choices:"
