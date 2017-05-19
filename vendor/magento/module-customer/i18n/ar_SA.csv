@@ -138,7 +138,7 @@ Download,Download
 "Something went wrong while saving the new password.","Something went wrong while saving the new password."
 "You deleted the address.","You deleted the address."
 "We can\'t delete the address right now.","We can\'t delete the address right now."
-"You saved the address.","You saved the address."
+"You saved the address.","تم حفظ العنوان."
 "We can\'t save the address.","We can\'t save the address."
 "No customer ID defined.","No customer ID defined."
 "Please correct the quote items and try again.","Please correct the quote items and try again."
@@ -315,12 +315,12 @@ or,or
 "You have no default shipping address in your address book.","You have no default shipping address in your address book."
 "Additional Address Entries","قائمة الاعناوين الاضافية"
 "Delete Address","حذف العنوان"
-"You have no other address entries in your address book.","You have no other address entries in your address book."
+"You have no other address entries in your address book.","لا يوجد عناوين اضافية في دفتر العناوين."
 "* Required Fields","* Required Fields"
 Company,الشركة
 "Phone Number","رقم الهاتف"
 Fax,فاكس
-Address,عنوان
+Address,العنوان
 "Street Address","العنوان\الشارع"
 "Street Address %1","Street Address %1"
 "VAT Number","VAT Number"
@@ -330,9 +330,9 @@ State/Province,State/Province
 "Zip/Postal Code","Zip/Postal Code"
 Country,Country
 "It's a default billing address.","هذا هو عنوان الدفع الرئيسي."
-"Use as my default billing address","Use as my default billing address"
+"Use as my default billing address","استخدام هذا العنوان كعنوان دفع رئيسي"
 "It's a default shipping address.","هذا هو عنوان الشحن الارئيسي."
-"Use as my default shipping address","Use as my default shipping address"
+"Use as my default shipping address","استخدام هذا العنوان كعنوان شحن رئيسي"
 "Save Address","Save Address"
 "Go back","Go back"
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link."

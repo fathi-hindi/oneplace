@@ -128,7 +128,7 @@ h1{font-size:40px;margin-bottom:40px}
 .actions-toolbar{text-align:left}
 .actions-toolbar:before,.actions-toolbar:after{content:'';display:table}
 .actions-toolbar:after{clear:both}
-.actions-toolbar .primary{float:left}
+.actions-toolbar .primary{float:right}
 .actions-toolbar .primary,.actions-toolbar .secondary{display:inline-block}
 .actions-toolbar .primary a.action,.actions-toolbar .secondary a.action{display:inline-block}
 .actions-toolbar .primary .action{margin:0 15px 0 0}
