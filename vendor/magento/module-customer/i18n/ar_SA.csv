@@ -4,10 +4,10 @@
 "You don\'t subscribe to our newsletter.","You don\'t subscribe to our newsletter."
 "You have not set a default shipping address.","You have not set a default shipping address."
 "You have not set a default billing address.","You have not set a default billing address."
-"Address Book","Address Book"
-"Edit Address","Edit Address"
-"Add New Address","Add New Address"
-region,region
+"Address Book","دفتر العناوين"
+"Edit Address","تعديل العنوان"
+"Add New Address","اضافة عنوان جديد"
+region,المنطقة
 "Create Order","Create Order"
 "Save Customer","Save Customer"
 "Delete Customer","Delete Customer"
@@ -39,7 +39,7 @@ Newsletter,Newsletter
 "End Date","End Date"
 "Receive Date","Receive Date"
 Subject,Subject
-Status,Status
+Status,الحالة
 Sent,Sent
 Cancel,Cancel
 "Not Sent","Not Sent"
@@ -118,7 +118,7 @@ Download,Download
 "Please make sure your passwords match.","Please make sure your passwords match."
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation."
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation."
-"Account Information","Account Information"
+"Account Information","معلومات الحساب"
 "You saved the account information.","You saved the account information."
 "The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1."
 "Password confirmation doesn\'t match entered password.","Password confirmation doesn\'t match entered password."
@@ -292,7 +292,7 @@ Customer,Customer
 "Account Created on (%1):","Account Created on (%1):"
 "Account Created in:","Account Created in:"
 "Customer Group:","Customer Group:"
-"Default Billing Address","Default Billing Address"
+"Default Billing Address","عنوان الدفع الرئيسي"
 "Sales Statistics","Sales Statistics"
 "Web Site","Web Site"
 Store,Store
@@ -301,42 +301,42 @@ Store,Store
 "Average Sale","Average Sale"
 "All Store Views","All Store Views"
 Change,Change
-"Manage Addresses","Manage Addresses"
-"Default Shipping Address","Default Shipping Address"
-"Contact Information","Contact Information"
-"Change Password","تغير كلمت السر"
+"Manage Addresses","ادارة العناوين"
+"Default Shipping Address","عنوان الشحن الرئيسي"
+"Contact Information","معلومات الاتصال"
+"Change Password","تغير كلمة السر"
 Newsletters,Newsletters
 "You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
 or,or
 "Default Addresses","الاعنوان الافتراضي"
-"Change Billing Address","Change Billing Address"
+"Change Billing Address","تعديل عنوان الدفع"
 "You have no default billing address in your address book.","You have no default billing address in your address book."
-"Change Shipping Address","Change Shipping Address"
+"Change Shipping Address","تعديل عنوان الشحن"
 "You have no default shipping address in your address book.","You have no default shipping address in your address book."
-"Additional Address Entries","Additional Address Entries"
-"Delete Address","Delete Address"
+"Additional Address Entries","قائمة الاعناوين الاضافية"
+"Delete Address","حذف العنوان"
 "You have no other address entries in your address book.","You have no other address entries in your address book."
 "* Required Fields","* Required Fields"
-Company,Company
-"Phone Number","Phone Number"
-Fax,Fax
-Address,Address
-"Street Address","Street Address"
+Company,الشركة
+"Phone Number","رقم الهاتف"
+Fax,فاكس
+Address,عنوان
+"Street Address","العنوان\الشارع"
 "Street Address %1","Street Address %1"
 "VAT Number","VAT Number"
-City,City
+City,المدينة
 State/Province,State/Province
-"Please select a region, state or province.","Please select a region, state or province."
+"Please select a region, state or province.","الرجاء اختيار المنطقة \ البلدة"
 "Zip/Postal Code","Zip/Postal Code"
 Country,Country
-"It's a default billing address.","It's a default billing address."
+"It's a default billing address.","هذا هو عنوان الدفع الرئيسي."
 "Use as my default billing address","Use as my default billing address"
-"It's a default shipping address.","It's a default shipping address."
+"It's a default shipping address.","هذا هو عنوان الشحن الارئيسي."
 "Use as my default shipping address","Use as my default shipping address"
 "Save Address","Save Address"
 "Go back","Go back"
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link."
-Email,الايميل
+Email,ارسال لصديق
 "Send confirmation link","Send confirmation link"
 "Back to Sign In","Back to Sign In"
 "Change Email","Change Email"
