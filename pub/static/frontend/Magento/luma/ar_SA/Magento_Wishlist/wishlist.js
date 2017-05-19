@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-wishlist/view/frontend/web/wishlist.js
