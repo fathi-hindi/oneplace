@@ -220,4 +220,14 @@ class Url
     {
         return $this->urlBuilder->getUrl('customer/account/confirmation', ['email' => $email]);
     }
+	
+	/**
+     * Retrieve help URL
+     *
+     * @return string
+     */
+    public function getHelpUrl()
+    {
+        return $this->urlBuilder->getUrl('customer/help');
+    }
 }

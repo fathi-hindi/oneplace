@@ -10,6 +10,7 @@
         <referenceBlock name="header.links">
             <block class="Magento\Customer\Block\Account\Customer" name="customer" template="account/customer.phtml" before="-"/>
             <block class="Magento\Customer\Block\Account\AuthorizationLink" name="authorization-link-login" template="account/link/authorization.phtml"/>
+			<block class="Magento\Customer\Block\Account\HelpLink" name="help-link" template="account/link/help.phtml"/>
         </referenceBlock>
         <block class="Magento\Theme\Block\Html\Header" name="header" as="header">
             <arguments>
@@ -20,5 +21,6 @@
         <move element="register-link" destination="header.links"/>
         <move element="top.links" destination="customer"/>
         <move element="authorization-link" destination="top.links" after="-"/>
+        <move element="help-link" destination="header.links" />
     </body>
 </page>
