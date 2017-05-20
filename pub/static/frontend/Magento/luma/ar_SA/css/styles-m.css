@@ -2449,6 +2449,7 @@ body.filter-active .columns{z-index:999}
 	padding:10px;
 }
    
+.header.panel>.header.links>.help-link:before{content:'|';display:inline-block;margin:0 0 0 10px;}
 
 
 
