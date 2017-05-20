@@ -548,7 +548,7 @@ html,body{height:100%}
 .header.panel>.header.links>li{margin:0 0 0 15px}
 .header.panel>.header.links>li.welcome,.header.panel>.header.links>li>a{display:inline-block;line-height:1.4}
 .header.panel>.header.links>li.welcome a{color:#fff;padding-left:5px}
-.header.panel>.header.links>.authorization-link:after{content:attr(data-label);display:inline-block;margin:0 -5px 0 5px}
+.header.panel>.header.links>.authorization-link:after{content:attr(data-label);display:inline-block;margin:0 10px 0 0;}
 .header.panel>.header.links>.customer-welcome+.authorization-link{display:none}
 .header.content{padding:30px 20px 0}
 .logo{margin:-8px auto 25px 0}
