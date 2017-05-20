@@ -2451,6 +2451,12 @@ body.filter-active .columns{z-index:999}
    
 .header.panel>.header.links>.help-link:before{content:'|';display:inline-block;margin:0 0 0 10px;}
 
+.customer-account-login .login-container .block.block-customer-login {
+	float:right;
+}
+.customer-account-login .login-container .block.block-new-customer{
+	float:left;
+}
 
 
 
