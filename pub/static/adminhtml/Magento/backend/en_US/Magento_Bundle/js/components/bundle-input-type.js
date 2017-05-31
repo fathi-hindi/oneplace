@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-bundle/view/adminhtml/web/js/components/bundle-input-type.js

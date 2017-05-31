@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-catalog/view/adminhtml/web/js/bundle-proxy-button.js
