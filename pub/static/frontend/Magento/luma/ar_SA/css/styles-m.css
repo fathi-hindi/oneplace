@@ -2443,10 +2443,12 @@ body.filter-active .columns{z-index:999}
 }
 .box-category-link .block-content {
 	padding:10px;
+	min-height:260px;
+	text-align:center;
 }
 .box-category-link .block-title {
 	text-align: center;
-	padding:10px;
+	font-size:26px;
 }
    
 .header.panel>.header.links>.help-link:before{content:'|';display:inline-block;margin:0 0 0 10px;}
@@ -2457,6 +2459,5 @@ body.filter-active .columns{z-index:999}
 .customer-account-login .login-container .block.block-new-customer{
 	float:left;
 }
-
 
 
