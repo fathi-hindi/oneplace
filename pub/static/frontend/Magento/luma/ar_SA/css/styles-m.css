@@ -52,7 +52,7 @@ q{quotes:none}
 q:before,q:after{content:'';content:none}
 cite{font-style:normal}
 table{width:100%;border-collapse:collapse;border-spacing:0;max-width:100%}
-table th{text-align:left}
+table th{text-align:right}
 table>tbody>tr>th,table>tfoot>tr>th,table>tbody>tr>td,table>tfoot>tr>td{vertical-align:top}
 table>thead>tr>th,table>thead>tr>td{vertical-align:bottom}
 table>thead>tr>th,table>tbody>tr>th,table>tfoot>tr>th,table>thead>tr>td,table>tbody>tr>td,table>tfoot>tr>td{padding:11px 10px}
