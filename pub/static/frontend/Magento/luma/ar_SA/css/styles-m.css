@@ -763,8 +763,8 @@ body._has-modal-custom .modal-custom-overlay{height:100vh;left:0;position:fixed;
 .product-item .price-from,.product-item .price-to{margin:0}
 .product-item .tocompare:before{content:'\e61e'}
 .product-item .tocart{font-size:1.3rem;border-radius:0;line-height:1;padding-bottom:10px;padding-top:10px;white-space:nowrap}
-.column.main .product-items{margin-left:-20px}
-.column.main .product-item{padding-left:20px}
+.column.main .product-items{margin-left:-20px;}
+.column.main .product-item{padding-left:20px;}
 .price-container .price{font-size:1.4rem}
 .price-container .price-including-tax+.price-excluding-tax,.price-container .weee{margin-top:5px}
 .price-container .price-including-tax+.price-excluding-tax,.price-container .weee,.price-container .price-including-tax+.price-excluding-tax .price,.price-container .weee .price,.price-container .weee+.price-excluding-tax:before,.price-container .weee+.price-excluding-tax .price{font-size:1.1rem}
@@ -773,8 +773,8 @@ body._has-modal-custom .modal-custom-overlay{height:100vh;left:0;position:fixed;
 .price-container .weee+.price-excluding-tax:before{content:attr(data-label) ': '}
 .products-list .product-item{display:table;width:100%}
 .products-list .product-item-info{display:table-row}
-.products-list .product-item-photo{display:table-cell;padding:0 30px 30px 0;vertical-align:top;width:1%}
-.products-list .product-item-details{display:table-cell;vertical-align:top}
+.products-list .product-item-photo{display:table-cell;padding:0 30px 0 0;vertical-align:top;width:1%}
+.products-list .product-item-details{display:table-cell;vertical-align:top; padding-right:30px;}
 .page-products .columns{padding-top:60px;position:relative;z-index:1}
 .toolbar{margin-bottom:30px;text-align:center}
 .toolbar select{background-color:#f0f0f0;box-shadow:inset 0 1px 0 0 #fff,inset 0 -1px 0 0 rgba(204,204,204,0.3);border-radius:3px}
@@ -2460,4 +2460,7 @@ body.filter-active .columns{z-index:999}
 	float:left;
 }
 
-
+.products-grid .product-item-details{
+	text-align:center;
+}
+.column.main .products-list .product-item{border-bottom-style:inset;padding-top: 10px;}
