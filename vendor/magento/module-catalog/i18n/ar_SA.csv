@@ -7,7 +7,7 @@ ID,ID
 Name,Name
 SKU,SKU
 Price,Price
-Position,Position
+Position,الموقع
 "Add Subcategory","Add Subcategory"
 "Add Root Category","Add Root Category"
 Day,Day
@@ -534,7 +534,7 @@ Role,Role
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>"
 "Buy %1 for %2 each","Buy %1 for %2 each"
 "Shop By","Shop By"
-"Shopping Options","Shopping Options"
+"Shopping Options","خيارات التسوق"
 "Compare Products","مقارنة المنتجات"
 "Print This Page","Print This Page"
 "Remove Product","Remove Product"
@@ -550,19 +550,19 @@ Prev,السابق
 Next,التالي
 "We can\'t find products matching the selection.","We can\'t find products matching the selection."
 "Add to Compare","اضافة الى المقارنة"
-"Learn More","Learn More"
+"Learn More","عرض التفاصيل"
 "We found other products you might like!","We found other products you might like!"
 "More Choices:","More Choices:"
 "Check items to add to the cart or","Check items to add to the cart or"
 "select all","select all"
 "Items %1-%2 of %3","Items %1-%2 of %3"
-"%1 Item","%1 Item"
-"%1 Items","%1 Items"
-Show,Show
-"per page","per page"
-"Sort By","Sort By"
-"Set Ascending Direction","Set Ascending Direction"
-"Set Descending Direction","Set Descending Direction"
+"%1 Item","%1 منتج"
+"%1 Items","%1 منتجات"
+Show,عرض
+"per page","في كل صفحة"
+"Sort By","ترتيب حسب"
+"Set Ascending Direction","ترتيب تصاعدي"
+"Set Descending Direction","ترتيب تنازلي"
 "View as","View as"
 "More Information","More Information"
 Loading...,Loading...
