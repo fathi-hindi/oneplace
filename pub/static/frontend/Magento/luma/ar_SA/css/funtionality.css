@@ -11,3 +11,13 @@
 .minicart-wrapper {
 	display:none !important;
 }
+
+/* Hide add to cart button in product grid/list view */
+.product-item-actions .actions-primary {
+	display:none !important;
+}
+
+/* Hide add to cart box in PDP */
+.box-tocart {
+	display:none !important;
+}
