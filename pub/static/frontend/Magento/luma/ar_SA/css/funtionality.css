@@ -7,3 +7,7 @@
 /* *****************************
   Date: Jun 9, 2017
 */
+/* Hide mini cart icon in the headr*/
+.minicart-wrapper {
+	display:none !important;
+}
