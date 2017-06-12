@@ -22,5 +22,7 @@
 	display:none !important;
 }
 
+/* Hide Orders and Returns footer link */
+.footer.content>.footer.links li:last-child{
 	display:none
 }
