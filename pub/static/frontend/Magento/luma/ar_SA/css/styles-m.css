@@ -2468,3 +2468,7 @@ body.filter-active .columns{z-index:999}
 .physical-store-link{font-weight: bold;}
 .form-wishlist-items .actions-toolbar button{background-color:#1979c3;border: 0;border-radius: 0;color: white;}
 .form-wishlist-items .actions-toolbar button:hover{background-color:#006bb4}
+
+#contact-form .actions-toolbar {
+	margin-bottom:15px;
+}
