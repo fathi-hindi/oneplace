@@ -1,0 +1,1 @@
+INSERT INTO x_product_short_description_value (store_prefix, value) VALUES ('TS', '<p>متوفر هذا المنتج في : <a href="/stores/test-store.html">مركز تجريبي</a></p> ');

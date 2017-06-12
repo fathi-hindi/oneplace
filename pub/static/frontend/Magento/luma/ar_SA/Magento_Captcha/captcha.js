@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-captcha/view/frontend/web/captcha.js

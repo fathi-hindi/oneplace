@@ -7,7 +7,7 @@ ID,ID
 Name,Name
 SKU,SKU
 Price,Price
-Position,Position
+Position,الموقع
 "Add Subcategory","Add Subcategory"
 "Add Root Category","Add Root Category"
 Day,Day
@@ -300,7 +300,7 @@ Category,Category
 "%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn\'t extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter"
 "The filter must be an object. Please set the correct filter.","The filter must be an object. Please set the correct filter."
 "Clear Price","Clear Price"
-"%1 and above","%1 and above"
+"%1 and above","%1 واكثر"
 "The filters must be an array.","The filters must be an array."
 "Group price must be a number greater than 0.","Group price must be a number greater than 0."
 "Media Gallery converter should be an instance of EntryConverterInterface.","Media Gallery converter should be an instance of EntryConverterInterface."
@@ -534,9 +534,9 @@ Role,Role
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>"
 "Buy %1 for %2 each","Buy %1 for %2 each"
 "Shop By","Shop By"
-"Shopping Options","Shopping Options"
+"Shopping Options","خيارات التسوق"
 "Compare Products","مقارنة المنتجات"
-"Print This Page","Print This Page"
+"Print This Page","طباعة هذه الصفحة"
 "Remove Product","Remove Product"
 "Add to Cart","اظافة الى السلة"
 "In stock","متوفر"
@@ -548,21 +548,21 @@ Compare,مقارنة
 "Clear All","حذف الجميع"
 Prev,السابق
 Next,التالي
-"We can\'t find products matching the selection.","We can\'t find products matching the selection."
+"We can\'t find products matching the selection.","لا يوجد اي منتجات في هذا القسم."
 "Add to Compare","اضافة الى المقارنة"
-"Learn More","Learn More"
+"Learn More","عرض التفاصيل"
 "We found other products you might like!","We found other products you might like!"
 "More Choices:","More Choices:"
 "Check items to add to the cart or","Check items to add to the cart or"
 "select all","select all"
 "Items %1-%2 of %3","Items %1-%2 of %3"
-"%1 Item","%1 Item"
-"%1 Items","%1 Items"
-Show,Show
-"per page","per page"
-"Sort By","Sort By"
-"Set Ascending Direction","Set Ascending Direction"
-"Set Descending Direction","Set Descending Direction"
+"%1 Item","%1 منتج"
+"%1 Items","%1 منتجات"
+Show,عرض
+"per page","في كل صفحة"
+"Sort By","ترتيب حسب"
+"Set Ascending Direction","ترتيب تصاعدي"
+"Set Descending Direction","ترتيب تنازلي"
 "View as","View as"
 "More Information","More Information"
 Loading...,Loading...
@@ -714,5 +714,5 @@ Disable,Disable
 "Update attributes","Update attributes"
 none,none
 Overview,Overview
-Details,Details
+Details,التفاصيل
 "The value of Admin must be unique.", "The value of Admin must be unique."

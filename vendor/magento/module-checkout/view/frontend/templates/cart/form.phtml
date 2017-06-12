@@ -48,7 +48,7 @@
                 data-cart-empty=""
                 value="empty_cart"
                 title="<?php echo $block->escapeHtml(__('Clear Shopping Cart')); ?>"
-                class="action clear" id="empty_cart_button">
+                class="action clear primary" id="empty_cart_button">
             <span><?php /* @escapeNotVerified */ echo __('Clear Shopping Cart'); ?></span>
         </button>
         <button type="submit"
@@ -56,7 +56,7 @@
                 data-cart-item-update=""
                 value="update_qty"
                 title="<?php echo $block->escapeHtml(__('Update Shopping Cart')); ?>"
-                class="action update">
+                class="action update primary">
             <span><?php /* @escapeNotVerified */ echo __('Update Shopping Cart'); ?></span>
         </button>
         <input type="hidden" value="" id="update_cart_action_container" data-cart-item-update=""/>
