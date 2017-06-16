@@ -306,7 +306,7 @@ Change,Change
 "Contact Information","معلومات الاتصال"
 "Change Password","تعديل كلمة السر"
 Newsletters,Newsletters
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
+"You subscribe to ""General Subscription"".","تم اشتراكك في ""اشتراك عام""."
 or,|
 "Default Addresses","الاعنوان الافتراضي"
 "Change Billing Address","تعديل عنوان الدفع"
@@ -351,8 +351,8 @@ Save,حفظ
 "If you have an account, sign in with your email address.","اذا كنت مستخدم موجود, سجل الدخول باستخدام الايمل."
 Password,كلمة السر
 "Forgot Your Password?","نسيت كلمة السر؟"
-"Subscription option","Subscription option"
-"General Subscription","General Subscription"
+"Subscription option","خيارات الاشتراك"
+"General Subscription","اشتراك عام"
 "Sign Up for Newsletter","Sign Up for Newsletter"
 "Address Information","معلومات العنوان"
 "Sign-in Information","معلومات تسجيل الدخول"
