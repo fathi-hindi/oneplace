@@ -1,6 +1,6 @@
 "Save Review","Save Review"
 "New Review","New Review"
-"Review Details","Review Details"
+"Review Details","تفاصيل التعليق"
 Product,Product
 "Product Rating","Product Rating"
 Status,Status
@@ -22,7 +22,7 @@ Author,Author
 "Summary Rating","Summary Rating"
 "Detailed Rating","Detailed Rating"
 ID,ID
-Created,Created
+Created,تاريخ الانشاء
 Title,Title
 Type,Type
 SKU,SKU
@@ -63,11 +63,11 @@ Websites,Websites
 "Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review."
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2"
 "Pending Reviews RSS","Pending Reviews RSS"
-"Reviews %1","Reviews %1"
+"Reviews %1","%1 تعليقات"
 Reviews,التعليقات
 "The review has been deleted.","The review has been deleted."
 "Something went wrong  deleting this review.","Something went wrong  deleting this review."
-"Customer Reviews","Customer Reviews"
+"Customer Reviews","تعليقات الزبائن"
 "Edit Review","Edit Review"
 "We can\'t retrieve the product ID.","We can\'t retrieve the product ID."
 "Please select review(s).","Please select review(s)."
@@ -81,8 +81,8 @@ Reviews,التعليقات
 "You deleted the rating.","You deleted the rating."
 Ratings,Ratings
 "You saved the rating.","You saved the rating."
-"My Product Reviews","My Product Reviews"
-"You submitted your review for moderation.","You submitted your review for moderation."
+"My Product Reviews","تعليقاتي"
+"You submitted your review for moderation.","تم ارسال تعليقك للمراجعة."
 "We can\'t post your review right now.","We can\'t post your review right now."
 "Storage key was not set","Storage key was not set"
 Approved,Approved
@@ -99,13 +99,13 @@ Pending,Pending
 Rating,التقيم
 Actions,Actions
 "See Details","See Details"
-"You have submitted no reviews.","You have submitted no reviews."
+"You have submitted no reviews.","لم تقم باضافة اي تعليق مسبقا."
 Back,Back
-"My Recent Reviews","My Recent Reviews"
+"My Recent Reviews","تعليقاتي الحديثة"
 "View All","View All"
 "Average Customer Rating:","Average Customer Rating:"
-"Your Review","Your Review"
-"Submitted on %1","Submitted on %1"
+"Your Review","تعليقك"
+"Submitted on %1","ارسل في %1"
 "Back to My Reviews","Back to My Reviews"
 "Ratings Review Summary","Ratings Review Summary"
 "Be the first to review this product","اكتب اول تعليق على هذه المنتج"
@@ -119,7 +119,7 @@ Summary,الملخص
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>"
 "Add Your Review","اضف تعليقك"
 "%1 Review(s)","%1 Review(s)"
-"Review by","Review by"
+"Review by","تم التعليق بواسطة"
 "Posted on","Posted on"
 "Back to Main Product Info","Back to Main Product Info"
 "Average Customer Rating","Average Customer Rating"

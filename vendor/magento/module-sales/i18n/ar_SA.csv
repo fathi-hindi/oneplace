@@ -1,6 +1,6 @@
 "Credit Memos","Credit Memos"
 Orders,Orders
-Invoices,Invoices
+Invoices,الفواتير
 "We can\'t get the order instance right now.","We can\'t get the order instance right now."
 "Create New Order","Create New Order"
 "Save Order Address","Save Order Address"
@@ -28,7 +28,7 @@ Message,Message
 "Create New Order in %1","Create New Order in %1"
 "Create New Order for %1","Create New Order for %1"
 "Create New Order for New Customer","Create New Order for New Customer"
-"Items Ordered","Items Ordered"
+"Items Ordered","المنتج المطلوب"
 "This product is disabled.","This product is disabled."
 "Buy %1 for price %2","Buy %1 for price %2"
 "Item ordered qty","Item ordered qty"
@@ -38,7 +38,7 @@ Message,Message
 "* - Enter custom price excluding tax","* - Enter custom price excluding tax"
 Configure,Configure
 "This product does not have any configurable options","This product does not have any configurable options"
-"Newsletter Subscription","Newsletter Subscription"
+"Newsletter Subscription","الاشتراك في النشرات الدعائية"
 "Please select products","Please select products"
 "Add Selected Product(s) to Order","Add Selected Product(s) to Order"
 ID,ID
@@ -153,7 +153,7 @@ Information,Information
 "Order Information","Order Information"
 "Order Invoices","Order Invoices"
 Shipments,Shipments
-"Order Shipments","Order Shipments"
+"Order Shipments","عمليات الشحن"
 Transactions,Transactions
 "Order View","Order View"
 Any,Any

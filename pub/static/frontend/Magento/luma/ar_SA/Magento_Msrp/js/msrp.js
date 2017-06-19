@@ -1,0 +1,1 @@
+C:/wamp64/www/oneplace/vendor/magento/module-msrp/view/base/web/js/msrp.js
