@@ -71,7 +71,7 @@ h1{font-size:40px;margin-bottom:40px}
 .page-layout-3columns .sidebar-additional{width:20.83333333%;float:right;-ms-flex-order:3;-webkit-order:3;order:3}
 .page-layout-2columns-left .sidebar-additional{width:20.83333333%;float:right;-ms-flex-order:2;-webkit-order:2;order:2}
 .page-layout-2columns-right .sidebar-additional{width:20.83333333%;float:right;-ms-flex-order:2;-webkit-order:2;order:2}
-.page-layout-2columns-left .sidebar-additional{float:left;padding-left:0;padding-right:2%}
+.page-layout-2columns-left .sidebar-additional{padding-left:0;padding-right:2%}
 .panel.header{padding:10px 20px}
 .nav-toggle{display:none}
 .nav-sections{-webkit-flex-shrink:0;flex-shrink:0;-webkit-flex-basis:auto;flex-basis:auto;margin-bottom:25px}
@@ -474,7 +474,7 @@ h1{font-size:40px;margin-bottom:40px}
 .magento-rma-guest-returns .column.main .block.block-order-details-view .block-content:not(.widget) .box{clear:none;float:left;width:25%}
 .block-returns-tracking .block-title .action{margin:12px 0 0 30px}
 .block-returns-tracking .block-title .action.track{float:right}
-.order-links .item{float:left;margin:0 -1px 0 0}
+.order-links .item{float:right;margin:0 -1px 0 0}
 .order-links .item a{padding:1px 35px}
 .order-links .item strong{border-bottom:0;margin-bottom:-1px;padding:1px 35px 2px 35px}
 .order-actions-toolbar .action.print{display:block;float:right}

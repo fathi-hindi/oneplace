@@ -1273,7 +1273,7 @@ body.catalog-product-compare-index .action.print{float:right;margin:15px 0}
 .field.password .control .mage-error{-ms-flex-order:2;-webkit-order:2;order:2}
 .field.password .control .input-text{-ms-flex-order:0;-webkit-order:0;order:0}
 .password-strength-meter{background-color:#f4f4f4;height:32px;line-height:32px;padding:0 9px;position:relative;z-index:1}
-.password-strength-meter:before{content:'';height:100%;left:0;position:absolute;top:0;z-index:-1}
+.password-strength-meter:before{content:'';height:100%;right:0;position:absolute;top:0;z-index:-1}
 .password-strength-meter-0 .password-strength-meter:before{background-color:#f4f4f4;width:100%}
 .password-strength-meter-1 .password-strength-meter:before{background-color:#ffafae;width:25%}
 .password-strength-meter-2 .password-strength-meter:before{background-color:#ffd6b3;width:50%}
@@ -2417,6 +2417,7 @@ body.filter-active .columns{z-index:999}
 }
 .form-edit-account fieldset.fieldset.info {
 	float:right;
+	margin-left:25px;
 }
 
 .form-edit-account .fieldset.info .customer-dob input {
@@ -2467,3 +2468,7 @@ body.filter-active .columns{z-index:999}
 .physical-store-link{font-weight: bold;}
 .form-wishlist-items .actions-toolbar button{background-color:#1979c3;border: 0;border-radius: 0;color: white;}
 .form-wishlist-items .actions-toolbar button:hover{background-color:#006bb4}
+
+#contact-form .actions-toolbar {
+	margin-bottom:15px;
+}

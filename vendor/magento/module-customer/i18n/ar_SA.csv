@@ -304,9 +304,9 @@ Change,Change
 "Manage Addresses","ادارة العناوين"
 "Default Shipping Address","عنوان الشحن الرئيسي"
 "Contact Information","معلومات الاتصال"
-"Change Password","تغير كلمة السر"
+"Change Password","تعديل كلمة السر"
 Newsletters,Newsletters
-"You subscribe to ""General Subscription"".","You subscribe to ""General Subscription""."
+"You subscribe to ""General Subscription"".","تم اشتراكك في ""اشتراك عام""."
 or,|
 "Default Addresses","الاعنوان الافتراضي"
 "Change Billing Address","تعديل عنوان الدفع"
@@ -339,20 +339,20 @@ Country,Country
 Email,الايميل
 "Send confirmation link","Send confirmation link"
 "Back to Sign In","Back to Sign In"
-"Change Email","Change Email"
-"Change Email and Password","Change Email and Password"
-"Current Password","Current Password"
-"New Password","New Password"
-"Confirm New Password","Confirm New Password"
-Save,Save
-"Please enter your email address below to receive a password reset link.","Please enter your email address below to receive a password reset link."
-"Reset My Password","Reset My Password"
+"Change Email","تعديل الايميل"
+"Change Email and Password","تعديل الايميل وكلمة السر"
+"Current Password","كلمة السر الحالية"
+"New Password","كلمة السر الجديدة"
+"Confirm New Password","تاكيد كلمة السر الجديدة"
+Save,حفظ
+"Please enter your email address below to receive a password reset link.","الرجاء ادخال الايميل الخاص بك ادناه للحصول على رابط اعادة تعيين كلمة السر."
+"Reset My Password","اعادة تعيين كلمة السر"
 "Registered Customers","مستخدم مسجل"
 "If you have an account, sign in with your email address.","اذا كنت مستخدم موجود, سجل الدخول باستخدام الايمل."
 Password,كلمة السر
 "Forgot Your Password?","نسيت كلمة السر؟"
-"Subscription option","Subscription option"
-"General Subscription","General Subscription"
+"Subscription option","خيارات الاشتراك"
+"General Subscription","اشتراك عام"
 "Sign Up for Newsletter","Sign Up for Newsletter"
 "Address Information","معلومات العنوان"
 "Sign-in Information","معلومات تسجيل الدخول"
@@ -361,7 +361,7 @@ Password,كلمة السر
 "Set a New Password","تعين كلمة سر جديدة"
 "You have signed out and will go to our homepage in 5 seconds.","تم تسجيل الخروج. سيتم تحويلك لصفحة الارئسية خلال 5 ثواني."
 "New Customers","مستخدم جديد"
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","انشاء حساب جديد له كثير من الميزات: سرعة انهاء الطلي, حفظ كثير من الاعناوين, تتبع طلباتك واكثر."
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","انشاء حساب جديد له كثير من الميزات: سرعة انهاء الطلب, حفظ العناوين, تتبع طلباتك واكثر."
 Gender,الجنس
 Name,الاسم
 "Tax/VAT number","Tax/VAT number"
@@ -517,7 +517,8 @@ Addresses,Addresses
 "Password forgotten","نسيت كلمة السر"
 "My Dashboard","ملخص الحساب"
 "You are signed out","تم تسجيل الخروج"
-"No Password","لا يوجد كلمة سر"
+"No Password","كلمة السر فار"غة
+"Password Strength","قوة كلمة السر"
 "Weak","ضعيف"
 "Medium","وسط"
 "Strong","قوي"

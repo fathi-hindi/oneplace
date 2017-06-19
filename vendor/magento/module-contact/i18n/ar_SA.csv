@@ -2,13 +2,13 @@
 "Thanks for contacting us with your comments and questions. We\'ll respond to you very soon.","Thanks for contacting us with your comments and questions. We\'ll respond to you very soon."
 "We can\'t process your request right now. Sorry, that\'s all we know.","We can\'t process your request right now. Sorry, that\'s all we know."
 "* Required Fields","* Required Fields"
-"Write Us","Write Us"
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible."
-Name,Name
-Email,Email
-"Phone Number","Phone Number"
-"What’s on your mind?","What’s on your mind?"
-Submit,Submit
+"Write Us","راسلنا"
+"Jot us a note and we’ll get back to you as quickly as possible.","سنقوم بالرد على ملاحضاتكم في اسرع وقت ممكن."
+Name,الاسم
+Email,الايميل
+"Phone Number","رقم الهاتف"
+"What’s on your mind?","ماذا يجول في خاطرك؟"
+Submit,ارسال
 "Name: %name","Name: %name"
 "Email: %email","Email: %email"
 "Phone Number: %telephone","Phone Number: %telephone"
